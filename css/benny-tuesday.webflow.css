@@ -3163,3 +3163,15 @@ figcaption {
   width: 60%;
   margin: 0 auto;
 }
+
+/* MEDIA QUERIES */
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .line-hero {
+    margin-top: 0px !important;
+    height: 60% !important;
+  }
+  .grid-footer {
+    height: 30px !important;
+  }
+}
