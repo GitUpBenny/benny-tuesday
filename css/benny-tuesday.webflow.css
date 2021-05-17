@@ -3180,15 +3180,20 @@ figcaption {
     padding-top: 30px;
     height: 60% !important;
   }
+
   .grid-footer {
     height: 30px !important;
   }
+
   .block-hero {
     margin-top: 0px !important;
   }
-  .w-embed-youtubevideo, .youtube-3 {
+
+  .w-embed-youtubevideo,
+  .youtube-3 {
     height: 150px !important;
   }
+
   .block-hero {
     width: 75%;
     max-width: 75%;
@@ -3197,9 +3202,12 @@ figcaption {
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-  .w-embed-youtubevideo, .youtube-3 {
+
+  .w-embed-youtubevideo,
+  .youtube-3 {
     height: 275px !important;
   }
+
   .block-hero {
     width: 55%;
     max-width: 55%;
@@ -3216,18 +3224,25 @@ figcaption {
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
-  .w-embed-youtubevideo, .youtube-3 {
+
+  .w-embed-youtubevideo,
+  .youtube-3 {
     height: 300px !important;
   }
+
   .block-hero {
     width: 40%;
     max-width: 40%;
   }
 }
+
 @media only screen and (min-width: 1500px) {
-  .w-embed-youtubevideo, .youtube-3 {
-    height: 325px !important;
+
+  .w-embed-youtubevideo,
+  .youtube-3 {
+    height: 350px !important;
   }
+
   .block-hero {
     width: 40%;
     max-width: 40%;
