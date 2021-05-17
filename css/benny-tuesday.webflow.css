@@ -3169,6 +3169,7 @@ figcaption {
 @media only screen and (max-width: 600px) {
   .line-hero {
     margin-top: 0px !important;
+    padding-top: 30px;
     height: 60% !important;
   }
   .grid-footer {
