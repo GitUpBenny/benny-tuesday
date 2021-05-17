@@ -3164,6 +3164,12 @@ figcaption {
   margin: 0 auto;
 }
 
+/* YOUTUBE VIDEOS */
+.w-embed-youtubevideo,
+.youtube-3 {
+  padding-top: 0px !important;
+}
+
 /* MEDIA QUERIES */
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
