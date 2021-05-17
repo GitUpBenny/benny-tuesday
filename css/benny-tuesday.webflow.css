@@ -3224,3 +3224,12 @@ figcaption {
     max-width: 40%;
   }
 }
+@media only screen and (min-width: 1500px) {
+  .w-embed-youtubevideo, .youtube-3 {
+    height: 325px !important;
+  }
+  .block-hero {
+    width: 40%;
+    max-width: 40%;
+  }
+}
