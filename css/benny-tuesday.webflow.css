@@ -3171,9 +3171,11 @@ figcaption {
     margin-top: 0px !important;
     padding-top: 30px;
     height: 60% !important;
-    transform: translateY(30px);
   }
   .grid-footer {
     height: 30px !important;
+  }
+  .block-hero {
+    margin-top: 10px !important;
   }
 }
