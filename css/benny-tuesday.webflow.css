@@ -3186,4 +3186,33 @@ figcaption {
   .block-hero {
     margin-top: 0px !important;
   }
+  .w-embed-youtubevideo, .youtube-3 {
+    height: 180px !important;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .w-embed-youtubevideo, .youtube-3 {
+    height: 275px !important;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .block-hero {
+    width: 55%;
+    max-width: 55%;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .w-embed-youtubevideo, .youtube-3 {
+    height: 325px !important;
+  }
+  .block-hero {
+    width: 40%;
+    max-width: 40%;
+  }
 }
