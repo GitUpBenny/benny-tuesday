@@ -3171,7 +3171,16 @@ figcaption {
   height: 300px !important;
 }
 
+/* Contrast for paragraphs */
+
+.paragraph-hero.light,
+.paragraph-hero,
+.project-subtitle.light {
+  opacity: .8 !important;
+}
+
 /* MEDIA QUERIES */
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
   .line-hero {
