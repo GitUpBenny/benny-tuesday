@@ -3179,6 +3179,25 @@ figcaption {
   opacity: .8 !important;
 }
 
+/* CONTACT BUTTONS */
+
+.contact-btn {
+  background-color: #f6eee3 !important;
+  color: #380000 !important;
+  box-shadow: 0 5px 11px -3px #f6eee3;
+}
+
+.summary-contact-btn {
+  display: flex;
+  justify-content: center;
+  transform: translateY(-50px);
+}
+
+.button-light.details-btn.alt {
+  margin-right: 0px !important;
+}
+
+
 /* MEDIA QUERIES */
 
 /* Extra small devices (phones, 600px and down) */
